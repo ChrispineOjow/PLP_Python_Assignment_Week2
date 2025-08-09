@@ -3,6 +3,7 @@
 ---
 
 ### Overview
+
 This assignment demonstrates basic list operations in Python, including creating a list, appending elements, inserting values, extending with another list, removing elements, sorting, and finding the index of a specific value.
 ---
 
